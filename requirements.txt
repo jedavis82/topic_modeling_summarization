@@ -1,0 +1,10 @@
+-r requirements_torch.txt
+top2vec[sentence_transformers]
+spacy
+spacytextblob
+pandas
+transformers
+sentencepiece
+numpy
+jupyter
+scikit-learn
