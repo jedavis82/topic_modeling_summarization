@@ -1,2 +1,4 @@
 .idea
 /kaggle_all_news/
+/models/
+*.pyc
