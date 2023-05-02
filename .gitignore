@@ -2,3 +2,4 @@
 /kaggle_all_news/
 /models/
 *.pyc
+/model_output/
